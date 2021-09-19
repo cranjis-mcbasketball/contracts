@@ -16,3 +16,5 @@ neardev
 **/*.rs.bk
 
 .idea
+.misc.README.md
+env_setup.macbookpro.md
